@@ -1,7 +1,7 @@
 /* TRANSITIONS */
 
 div{
-height: 200px;
+    height: 200px;
     width: 200px;
     background: orange;
     border: 2px solid black;
@@ -20,7 +20,7 @@ IMPORTANT: TRANSFORMATIONS DONT CHANGE RELATIVE POSITIONS OF THE ELEMENTS
 
 transform: type(amount);
 transform: typeX(amount);
-tansform: typeY(amount);
+transform: typeY(amount);
 transform: type(amountX, amountY);
 transform: type() type() ...;
 

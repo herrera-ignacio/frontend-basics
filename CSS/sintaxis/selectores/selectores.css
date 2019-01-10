@@ -39,14 +39,14 @@ div > p {
 }
 
 /* Style colision */
+p#important{
+  color: red !important;
+}
+
 article{
   color: green;
 }
 
 article h3{
   font-weight: bold;
-}
-
-p#important{
-  font-weight: bolder !important;
 }

@@ -3,7 +3,7 @@
 @font-face{
     font-family: "raleway";
     src: url("src/raleway_thin-webfont.eot")
-    src: local('?'),
+    src: local('?')
         url("src/raleway_thin-webfont.woff") format("woff")
 }
 

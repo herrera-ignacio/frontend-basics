@@ -7,7 +7,7 @@ p{
 p#beforedemo:before{
     content: "****";
     top: 50px;
-    /*position: relative;*/
+    /*position: fixed;*/
 }
 
 /* GLOBAL PSEUDOCLASSES */
