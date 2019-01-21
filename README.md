@@ -1,5 +1,5 @@
 # frontend-guide
-HTML and CSS, sintaxis overview, demos and exercises, all done for educational purpose.
+HTML, CSS, JS sintaxis overview, demos and exercises, insight into CSS/JS frameworks and multiple tools for web developers in general, all done for educational purpose.
 
 ### MY META: 
 I am doing this public repository, following my will to help anyone who desires to become a self-taught web devoleper,
@@ -14,9 +14,9 @@ and when, only guided by your own curiosity or actual knowledge.
 HTML5 and CSS3 sintaxis overview (DONE)
 In-depth CSS3, Animations & Transitions (DONE)
 Basic web projects as demo (DONE)
+In-depth Javascript (DONE)
+Demos of javascript features (DONE)
 At least one in-depth CSS Frameworks (Probably Boostrap 4)
 Responsive-Design web projects as demo (Parcially Done)
-In-depth Javascript 
-Web projects with javascript (Working right now)
 At least one in-depth Javascript Framework (Probably React)
 At least one big project using all above
